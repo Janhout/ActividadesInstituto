@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <item name="android:background">#ffeaf2ef</item>
+    </style>
+    <style name="AppThemeDetalle" parent="android:Theme.Holo.Light.Dialog.NoActionBar">
+        <item name="android:background">#ffeaf2ef</item>
+    </style>
+
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:icon">@drawable/ic_launcher</item>
+    </style>
+
+
+    <style name="estiloPadre">
+        <item name="android:textColor">#ff248ac4</item>
+        <item name="android:shadowColor">#ff1e4e79</item>
+        <item name="android:shadowDx">-1</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+</resources>

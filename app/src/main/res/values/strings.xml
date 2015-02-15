@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Actividades instituto</string>
+    <string name="title_activity_datos_detalle">Actividades</string>
+    <string name="title_activity_nueva_actividad">Nueva actividad</string>
+    <string name="complementaria">Complementaria</string>
+    <string name="extra">Extraescolar</string>
+    <string name="complementariaT">Actividad Complementaria</string>
+    <string name="extraT">Actividad Extraescolar</string>
+    <string name="nueva_actividad">Nueva Actividad</string>
+    <string name="fecha_actividad">Fecha realización</string>
+    <string name="fecha_actividadT">Fecha de realización</string>
+    <string name="descripcion">Descripción de la actividad</string>
+    <string name="desde">Desde: </string>
+    <string name="hasta">Hasta: </string>
+    <string name="hora_inicio">H. inicio</string>
+    <string name="hora_inicioT">Hora de inicio</string>
+    <string name="hora_final">H. final</string>
+    <string name="hora_finalT">Hora de finalización</string>
+    <string name="fecha_salida">Fecha salida</string>
+    <string name="fecha_llegada">Fecha llegada</string>
+    <string name="hora_salida">H. salida</string>
+    <string name="hora_llegada">H. llegada</string>
+    <string name="fecha_salidaT">Fecha de salida</string>
+    <string name="fecha_llegadaT">Fecha de llegada</string>
+    <string name="hora_salidaT">Hora de salida</string>
+    <string name="hora_llegadaT">Hora de llegada</string>
+    <string name="lugar_salida">Lugar de salida</string>
+    <string name="lugar_llegada">Lugar de llegada</string>
+    <string name="grupo_participante">Grupo participante</string>
+    <string name="profesor_organizador">Profesor organizador</string>
+    <string name="departamento_organizador">Departamento organizador</string>
+    <string name="lugar_realizacion">Lugar de realización</string>
+    <string name="error_profesor">El profesor organizador es obligatorio</string>
+    <string name="error_lugar">El lugar de la actividad es obligatorio</string>
+    <string name="error_grupo">El grupo participante es obligatorio</string>
+    <string name="error_hora_inicio">La hora de inicio es obligatoria</string>
+    <string name="error_descripcion">La descripción es obligatoria</string>
+    <string name="error_fecha_actividad">La fecha de la actividad es obligatoria</string>
+    <string name="error_fecha_salida">La fecha de salida es obligatoria</string>
+    <string name="error_fecha_llegada">La fecha de llegada es obligatoria</string>
+    <string name="error_hora_salida">La hora de salida es obligatoria</string>
+    <string name="error_hora_llegada">La hora de llegada es obligatoria</string>
+    <string name="error_lugar_salida">El lugar de salida es obligatorio</string>
+    <string name="error_lugar_llegada">El lugar de llegada es obligatorio</string>
+
+    <string name="editar_actividad">Editar Actividad</string>
+    <string name="borrar_actividad">Borrar Actividad</string>
+    <string name="actividad">Actividad</string>
+    <string name="error_datos">Los datos no están disponibles</string>
+
+    <string name="cargando">Cargando Datos del Servidor</string>
+
+    <string-array name="lugares">
+        <item>Lugar de realización</item>
+        <item>Biblioteca</item>
+        <item>SUM</item>
+        <item>Patio</item>
+        <item>Terraza</item>
+    </string-array>
+    <string-array name="lugaresG">
+        <item/>
+        <item>Biblioteca</item>
+        <item>SUM</item>
+        <item>Patio</item>
+        <item>Terraza</item>
+    </string-array>
+</resources>
